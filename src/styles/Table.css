@@ -1,0 +1,31 @@
+.table-container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid #080808;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #ffffff;
+}
+
+.link {
+  background: none;
+  border: none;
+  color: blue;
+  text-decoration: solid;
+  cursor: pointer;
+}
+.table th {
+  background-color: rgb(167, 70, 130);
+}
